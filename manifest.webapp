@@ -1,0 +1,14 @@
+{
+  "name": "Indonesia Map Audio V.01",
+  "description": "Indonesia Map Audio , you can learn as you play to know the islands in Indonesia",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/images/icon-512.png",
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "budiman11120905",
+    "url": "https://github.com/budiman11120905/indonesiamapv1.0"
+  },
+  "default_locale": "id"
+}
